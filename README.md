@@ -1,4 +1,4 @@
-# visualizeMSLD: Perform Structural Analysis with MSLD Trajectories
+# visualizeMSLD: Perform Structural Analysis of MSLD Trajectories
 
 A simple set of functions to extract physical frames from and visualize Multi-Site Lambda Dynamics (MSLD) trajectories generated from Adaptive Landscape Flattening (ALF)<sup>1</sup>.  
   
