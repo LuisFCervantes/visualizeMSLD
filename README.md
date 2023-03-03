@@ -9,6 +9,7 @@ A simple set of functions to extract physical frames from and visualize Multi-Si
 These scripts can be run from within the ALF directory where the trajectory to be visualized was created. 
 
 <sup>1</sup>[_J. Phys. Chem. B._  2017, 121, 15, 3626–3635]("https://doi.org/10.1021/acs.jpcb.6b09656")
+  
 <sup>2</sup>[_J. Chem. Inf. Model._ 2022, 62, 6, 1479–1488]("https://doi.org/10.1021/acs.jcim.2c00047")
 
 ## Dependencies
